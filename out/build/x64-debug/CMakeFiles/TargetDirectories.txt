@@ -1,3 +1,0 @@
-C:/Dev/rtweekend/out/build/x64-debug/CMakeFiles/rtweekend.dir
-C:/Dev/rtweekend/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Dev/rtweekend/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
