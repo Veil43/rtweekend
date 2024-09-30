@@ -400,6 +400,7 @@ FodyWeavers.xsd
 # Clion stuff
 cmake-build-debug
 cmake-build-release
+.idea
 
 # Visual studio stuff
 out
