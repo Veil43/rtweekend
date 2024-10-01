@@ -404,3 +404,6 @@ cmake-build-release
 
 # Visual studio stuff
 out
+
+images
+scene*
